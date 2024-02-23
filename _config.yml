@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "anbc.jpg"
+  avatar           : "anbc.png"
   name             : "An Bocheng(安博成)"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD student at Southeast University (China), focusing on the field of intelligent networked transport and traffic prediction."
