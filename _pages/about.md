@@ -11,14 +11,13 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Reasearch Interest
 ======
-1. Traffic flow prediction
-1. Vehicle trajectory prediction
+1. Traffic Flow Prediction
+1. Vehicle Trajectory Prediction
 1. Traffic Scenario Generation
-1. Urban spatial planning
-1. Vehicle risk warning
+1. Urban Spatial Planning
+1. Vehicle Risk Warning
 
 Contact Information
 ======
 Email: anbc17@seu.edu.cn
-
 Address: No.2, Southeast University Road, Jiangning District, Nanjing, China
