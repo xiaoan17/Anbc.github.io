@@ -19,5 +19,5 @@ Reasearch Interest
 
 Contact Information
 ======
-Email: anbc17@seu.edu.cn
-Address: No.2, Southeast University Road, Jiangning District, Nanjing, China
+- Email: anbc17@seu.edu.cn
+- Address: No.2, Southeast University Road, Jiangning District, Nanjing, China
