@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D. student in Communication and Transportation, Southeast University, China (2023.09 - Present)
