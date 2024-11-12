@@ -26,19 +26,19 @@ Contact Information
 
 Reference
 ======
-Prof. Qu Xu (Ph.D. Advisor)
-Professor
-School of Transportation, Southeast University
-1314, School of Transportation, Jiulonghu Campus
-Email: quxu@seu.edu.cn
+* Prof. Qu Xu (Ph.D. Advisor)
+  Professor
+  School of Transportation, Southeast University
+  1314, School of Transportation, Jiulonghu Campus
+  Email: quxu@seu.edu.cn
 
-Cui Chuang (Major Collaborator)
-Ph.D. Student
-School of Transportation, Southeast University
-Email: cuichuang@seu.edu.cn
+* Cui Chuang (Major Collaborator)
+  Ph.D. Student
+  School of Transportation, Southeast University
+  Email: cuichuang@seu.edu.cn
 
-Gan Rui (Major Collaborator)
-Ph.D. Student
-Department of Civil and Environmental Engineering, University of Wisconsin-Madison
-Email: rgan6@wisc.edu
+* Gan Rui (Major Collaborator)
+  Ph.D. Student
+  Department of Civil and Environmental Engineering, University of Wisconsin-Madison
+  Email: rgan6@wisc.edu
 
