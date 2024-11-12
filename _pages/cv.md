@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. student in Communication and Transportation, Southeast University, China (2023.09 - Present)
+* M.S. in Transportation Engineering, Southeast University, China (2021.09 - 2023.06)
+* B.S. in Traffic Engineering, Southeast University, China (2017.09 - 2021.06)
 
 Work experience
 ======
