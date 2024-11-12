@@ -27,5 +27,5 @@ Contact Information
 Educational Background
 ======
 1. Ph.D. student in Communication and Transportation, Southeast University, China (September 2023 - Present)
-1. M.S. student in Transportation Engineering, Southeast University, China (September 2021 - June 2023)
-1. B.S. student in Traffic Engineering, Southeast University, China (September 2017 - June 2021)
+1. M.S. in Transportation Engineering, Southeast University, China (September 2021 - June 2023)
+1. B.S. in Traffic Engineering, Southeast University, China (September 2017 - June 2021)
