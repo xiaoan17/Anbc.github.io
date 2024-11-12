@@ -11,13 +11,13 @@ I am currently a PhD student in Communication and Transportation, having started
 
 Looking forward to exchanging ideas and collaborating with you!
 
-Reasearch Interest
+Principle Reasearch Areas
 ======
 1. Traffic Flow Prediction
-1. Vehicle Trajectory Prediction
-1. Traffic Scenario Generation
-1. Urban Spatial Planning
-1. Vehicle Risk Warning
+2. Vehicle Trajectory Prediction
+3. Vehicle Trajectory Planning
+4. Traffic Scenario Generation
+5. Vehicle Risk Warning
 
 Contact Information
 ======
