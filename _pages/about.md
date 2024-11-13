@@ -13,11 +13,11 @@ Looking forward to exchanging ideas and collaborating with you!
 
 Principle Reasearch Areas
 ======
+1. Vehicle Trajectory Prediction
 1. Traffic Flow Prediction
-2. Vehicle Trajectory Prediction
-3. Vehicle Trajectory Planning
-4. Traffic Scenario Generation
-5. Vehicle Risk Warning
+1. Vehicle Trajectory Planning
+1. Traffic Scenario Generation
+1. Vehicle Risk Warning
 
 Contact Information
 ======
