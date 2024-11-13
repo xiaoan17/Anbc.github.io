@@ -26,7 +26,7 @@ Contact Information
 
 Reference
 ======
-* Prof. Qu Xu (Ph.D. Advisor)
+* Prof. Qu Xu (Ph.D. Supervisor)
   * Professor
   * School of Transportation, Southeast University
   * 1314, School of Transportation, Jiulonghu Campus
