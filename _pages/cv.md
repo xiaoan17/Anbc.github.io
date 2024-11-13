@@ -24,8 +24,8 @@ Skills
 
 Journal Publications
 ======
-1. Li L, **An B**, Zhang D, et al. Vehicular Speed Prediction Method for Highway Scenarios Based on Spatio-Temporal Graph Convolutional Networks and Potential Field Theory[J]. IEEE Internet of Things Journal, 2024. **(The supervisor is the first author)**
-2. Li L, **An B**, Wang Z, et al. Stability analysis and numerical simulation of a car-following model considering safety potential field and V2X communication: A focus on influence weight of multiple vehicles[J]. Physica A: Statistical Mechanics and its Applications, 2024, 640: 129706. **(The supervisor is the first author)**
+1. Li L, **An B**, Zhang D, et al. Vehicular Speed Prediction Method for Highway Scenarios Based on Spatio-Temporal Graph Convolutional Networks and Potential Field Theory[J]. IEEE Internet of Things Journal, 2024. **(The co-supervisor is the first author)**
+2. Li L, **An B**, Wang Z, et al. Stability analysis and numerical simulation of a car-following model considering safety potential field and V2X communication: A focus on influence weight of multiple vehicles[J]. Physica A: Statistical Mechanics and its Applications, 2024, 640: 129706. **(The co-supervisor is the first author)**
 3. Cui C, **An B**, Li L, et al. A freeway vehicle early warning method based on risk map: enhancing traffic safety through global perspective characterization of driving risk[J]. Accident Analysis & Prevention, 2024, 203: 107611.
 4. Gan R, **An B**, Li L, et al. A Freeway Traffic Flow Prediction Model Based on a Generalized Dynamic Spatio-Temporal Graph Convolutional Network[J]. IEEE Transactions on Intelligent Transportation Systems, 2024.
 5. Ma H, **An B**, Li L, et al. Anisotropy safety potential field model under intelligent and connected vehicle environment and its application in car-following modeling[J]. Journal of Intelligent and Connected Vehicles, 2023, 6(2): 79-90.
