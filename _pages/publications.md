@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p style="text-align: justify;">
+  这是一个段落，文本将会被设置为两端对齐。你可以继续添加内容，所有文本都会按两端对齐的方式展示。
+</p>
+
+
 Paper-009
 ======
 * Vehicular Speed Prediction Method for Highway Scenarios Based on Spatio-Temporal Graph Convolutional Networks and Potential Field Theory
