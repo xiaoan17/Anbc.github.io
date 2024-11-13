@@ -32,7 +32,7 @@ Journal Publications
 6. Qu X, Gan R, **An B**, et al. Prediction of traffic swarm movement situation based on generalized spatio-temporal graph convolution network[J]. Journal of Traffic and Transportation Engineering, 2022, 22(3): 79-88.
 7. Ma H, Li L, **An B**, et al. Mass‐based omni‐directional risk indicator (MORI) for multi‐participant traffic[J]. IET Intelligent Transport Systems, 2023, 17(11): 2251-2267.
 
-Journal Publications
+Conference Presentations
 ======
 1. **An B**, Cui C, Gan R, et al. Efficient Large-Scale Traffic Forecasting via Multi-Subgraph Spatio-Temporal Graph Convolutional Networks, Transportation Research Board 2025.
 2. Cui C, **An B,** Li L, et al. A Comprehensive Risk Metric for Freeway Vehicles Based on Predicted Positions, Transportation Research Board 2025.
