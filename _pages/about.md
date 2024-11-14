@@ -15,11 +15,11 @@ redirect_from:
 
 Principle Reasearch Areas
 ======
-1. Vehicle Trajectory Prediction
-1. Traffic Flow Prediction
-1. Vehicle Trajectory Planning
-1. Traffic Scenario Generation
-1. Vehicle Risk Warning
+- Vehicle Trajectory Prediction
+- Traffic Flow Prediction
+- Vehicle Trajectory Planning
+- Traffic Scenario Generation
+- Vehicle Risk Warning
 
 Contact Information
 ======
