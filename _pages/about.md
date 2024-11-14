@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;"> I am currently a PhD student in Communication and Transportation, having started my studies at Southeast University in September 2023. My supervisor is Prof. Xu Qu. I also received my master’s degree (2023) and bachelor’s degree (2021) at Southeast University, both under Prof. Qu's guidance. </p>
+<p style="text-align: justify;"> I am currently a Ph.D. student in Communication and Transportation, having started my studies at Southeast University in September 2023. My supervisor is Prof. Xu Qu. I received my master’s degree (2023) and bachelor’s degree (2021) at Southeast University, both under Prof. Qu's guidance. </p>
   
 <p style="text-align: justify;"> I focus on the application of artificial intelligence and data science in the transportation field, with current research interests including traffic flow prediction, vehicle trajectory prediction, and vehicle operation risk assessment. Future research plans include scenario generation and vehicle trajectory planning. </p>
 
